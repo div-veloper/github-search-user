@@ -3,7 +3,7 @@ import { Container } from "@mui/material";
 
 const App = () => {
   return (
-    <div>Soy un platzinauta</div>
+    <div>Prueba para subir a github</div>
   )
 };
 
